@@ -12,3 +12,17 @@ C:\Users\sebastian\source\repos\Laboratorium5\Laboratorium5\obj\Debug\Laboratori
 C:\Users\sebastian\source\repos\Laboratorium5\Laboratorium5\obj\Debug\Laboratorium5.csproj.CoreCompileInputs.cache
 C:\Users\sebastian\source\repos\Laboratorium5\Laboratorium5\obj\Debug\Laboratorium5.exe
 C:\Users\sebastian\source\repos\Laboratorium5\Laboratorium5\obj\Debug\Laboratorium5.pdb
+C:\Users\sebastian\Desktop\C#\Laboratorium5\bin\Debug\Laboratorium5.exe.config
+C:\Users\sebastian\Desktop\C#\Laboratorium5\bin\Debug\Laboratorium5.exe
+C:\Users\sebastian\Desktop\C#\Laboratorium5\bin\Debug\Laboratorium5.pdb
+C:\Users\sebastian\Desktop\C#\Laboratorium5\obj\Debug\Laboratorium5.csprojAssemblyReference.cache
+C:\Users\sebastian\Desktop\C#\Laboratorium5\obj\Debug\MainWindow.baml
+C:\Users\sebastian\Desktop\C#\Laboratorium5\obj\Debug\MainWindow.g.cs
+C:\Users\sebastian\Desktop\C#\Laboratorium5\obj\Debug\App.g.cs
+C:\Users\sebastian\Desktop\C#\Laboratorium5\obj\Debug\Laboratorium5_MarkupCompile.cache
+C:\Users\sebastian\Desktop\C#\Laboratorium5\obj\Debug\Laboratorium5.g.resources
+C:\Users\sebastian\Desktop\C#\Laboratorium5\obj\Debug\Laboratorium5.Properties.Resources.resources
+C:\Users\sebastian\Desktop\C#\Laboratorium5\obj\Debug\Laboratorium5.csproj.GenerateResource.cache
+C:\Users\sebastian\Desktop\C#\Laboratorium5\obj\Debug\Laboratorium5.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\Desktop\C#\Laboratorium5\obj\Debug\Laboratorium5.exe
+C:\Users\sebastian\Desktop\C#\Laboratorium5\obj\Debug\Laboratorium5.pdb
